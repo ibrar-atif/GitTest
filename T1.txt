@@ -7,3 +7,5 @@ Local commit changes 1.
 After hard reset.
 
 Local commit new 7.
+
+new commit.
