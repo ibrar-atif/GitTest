@@ -12,4 +12,4 @@ new commit.
 
 new changes.
 
-change1
+change1 + change + ammend
