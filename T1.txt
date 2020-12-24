@@ -5,3 +5,5 @@ master
 Local commit changes 1.
 
 Local commit change 3.
+
+Local commit changes 4.
