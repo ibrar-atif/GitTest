@@ -3,5 +3,3 @@ Hi
 master
 
 Local commit changes 1.
-
-Local commit changes 2.
